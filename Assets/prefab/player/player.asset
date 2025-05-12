@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f64d8e3c9c2c1145aefb0de2b6e8b32, type: 3}
+  m_Name: player
+  m_EditorClassIdentifier: 
+  alphabet: {fileID: 5672827765901135393, guid: 910dadfc8cc46bf4793eb1f7278fcadf, type: 3}
+  hp: 50
+  moveSpeed: 5
+  attackMulti: 1
+  attackDirayMulti: 1
+  invincibleTime: 2
